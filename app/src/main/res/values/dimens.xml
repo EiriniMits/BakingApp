@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin">8dp</dimen>
+    <dimen name="button_margin">24dp</dimen>
+
+    <dimen name="xsmall_text">14sp</dimen>
+    <dimen name="small_text">16sp</dimen>
+    <dimen name="medium_text">18sp</dimen>
+    <dimen name="large_text">20sp</dimen>
+    <dimen name="xlarge_text">22sp</dimen>
+
+    <dimen name="layout_height">250dp</dimen>
+    <dimen name="layout_height2">300dp</dimen>
+    <dimen name="layout_height3">180dp</dimen>
+    <dimen name="layout_height4">310dp</dimen>
+    <dimen name="layout_height5">260dp</dimen>
+
+    <dimen name="layout_width">400dp</dimen>
+    <dimen name="layout_width2">1dp</dimen>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BakingApp</string>
+    <string name="ingredients">INGREDIENTS</string>
+    <string name="steps">STEPS</string>
+    <string name="step_description">Step Description</string>
+    <string name="appwidget_text">Data Not Available</string>
+    <string name="no_internet">Internet connection appears to be offline</string>
+    <string name="no_video">No Video Available</string>
+</resources>
