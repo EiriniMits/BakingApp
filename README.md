@@ -11,11 +11,9 @@ Baking App created as a part of [Udacity Android Developer Nanodegree Program](h
 * Use Fragments to create a responsive design that works on phones and tablets.
 
 ## Screenshots
- ![rsz_screenshot_1528539883](https://user-images.githubusercontent.com/16197563/41190842-6ac43f20-6bee-11e8-81d3-cd9ad5921d47.png)   ![rsz_screenshot_1528539890](https://user-images.githubusercontent.com/16197563/41190867-0122b0dc-6bef-11e8-8dc5-a59a4ad077c4.png)   ![rsz_screenshot_1528539917](https://user-images.githubusercontent.com/16197563/41190889-4c73d1e2-6bef-11e8-97b7-12bf5af29303.png)
-
-![screenshot_1528540111](https://user-images.githubusercontent.com/16197563/41190760-56459d7e-6bed-11e8-9fac-cc5dfa139073.png)
-
-![screenshot_1528540105](https://user-images.githubusercontent.com/16197563/41190761-573c8c88-6bed-11e8-807a-8b0766ad84db.png)
+![webp net-resizeimage](https://user-images.githubusercontent.com/16197563/43659941-36eb7648-9766-11e8-86e0-08e23f5a0777.png)![webp net-resizeimage](https://user-images.githubusercontent.com/16197563/43659900-11d5f6c6-9766-11e8-97fa-fff04629b668.png)![webp net-resizeimage](https://user-images.githubusercontent.com/16197563/43659822-d0214f8c-9765-11e8-870b-23f8c2f2aa48.png)
+![unknown-3](https://user-images.githubusercontent.com/16197563/43659984-5342d8a4-9766-11e8-8da0-aff3e61122c5.png)
+![unknown-4](https://user-images.githubusercontent.com/16197563/43660007-65063d60-9766-11e8-964c-00ceb0d7cb10.png)
 
 ## Libraries
 * [Glide](https://github.com/bumptech/glide)
